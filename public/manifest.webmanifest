@@ -1,0 +1,13 @@
+{
+  "name": "Nexora",
+  "short_name": "Nexora",
+  "description": "The Future of Shopping",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#4f46e5",
+  "icons": [
+    { "src": "https://picsum.photos/seed/nexora-icon/192/192", "sizes": "192x192", "type": "image/png" },
+    { "src": "https://picsum.photos/seed/nexora-icon/512/512", "sizes": "512x512", "type": "image/png" }
+  ]
+}
