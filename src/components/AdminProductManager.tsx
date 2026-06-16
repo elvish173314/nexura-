@@ -16,7 +16,7 @@ type Product = {
   stock: number;
   rating: number;
   numReviews: number;
-  specs: Record<string, string> | null;
+  specs: Record<string, string> | null | any;
   isFeatured: boolean;
   isTrending: boolean;
   isBestSeller: boolean;
